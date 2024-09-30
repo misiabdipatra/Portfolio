@@ -1,0 +1,23 @@
+[
+    {
+      "role": "Front End Developer",
+      "organisation": "CS Indonesia",
+      "startDate": "Oct, 2023",
+      "endDate": "Present",
+      "experiences": [
+        "Developing compelling and responsive user interfaces", 
+        "Analyzing the existing application flow within the company"],
+      "imageSrc": "history/cs.jpeg"
+    },
+    {
+      "role": "UI/UX Learning Path",
+      "organisation": "GDSC",
+      "startDate": "Oct, 2023",
+      "endDate": "June, 2024",
+      "experiences": [
+        "Doing tasks as part of the GDSC UI/UX path.", 
+        "Designed tour and travel mobile apps"],
+      "imageSrc": "history/gdsc.png"
+    }
+  ]
+  

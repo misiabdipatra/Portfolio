@@ -1,0 +1,67 @@
+[
+    {
+      "title": "tourVel.",
+      "imageSrc": "projects/gdsc.png",
+      "description": "TourVel is a project from Google Developer Student Club. This application is designed to help individuals explore new areas with destination recommendations according to the user's budget. Users can easily get the optimal travel plan according to their budget. This project consists of a splash screen, home screen, planner, and plan history.",
+      "skills": ["Figma"],
+      "demo": "https://www.figma.com/design/zNYWlD9XRdDeZltwckJmHx/tourVel.-GDSC?node-id=0-1&t=DD4uAYsoYWkqIEnv-1",
+      "source": "https://drive.google.com/drive/folders/17K4i7wB1cY3Bx49mewr4E4ibcbUIBXMl?usp=sharing"
+    },
+    {
+      "title": "ARTERY",
+      "imageSrc": "projects/artery.png",
+      "description": "ARTERY is a final project for the Software Engineering course that is done in groups. This project focuses on providing space for artists to be able to publish their work and this project is based on the lack of public appreciation for art. This project is done with figma, HTML, CSS and JavaScript. With this group project, I learned to work in a team to achieve common goals.",
+      "skills": ["Hack", "PHP", "CSS", "JavaScript"],
+      "demo": "https://github.com/misiabdipatra/Artery",
+      "source": "https://drive.google.com/drive/folders/1_q197dYJ09E3EfsYKUOeOh50XzFF_2Jy?usp=sharing"
+    },
+    {
+      "title": "Anemia Prediction",
+      "imageSrc": "projects/anemia.jpg",
+      "description": "This project is a final assignment for the Big Data Processing course and focuses on prediction and visualization using the Decision Tree algorithm. From the model we built using the Decision Tree algorithm, we found an accuracy of 96.07%.",
+      "skills": ["Python"],
+      "demo": "https://github.com/misiabdipatra/Anemia-Prediction",
+      "source": "https://drive.google.com/drive/folders/1OIw26zxVtWKBblspS3xHrIte_Pb0-wik?usp=sharing"
+    },
+    {
+      "title": "Online Shoppers Dataset",
+      "imageSrc": "projects/online.jpg",
+      "description": "This project focuses on processing data into visualization and implementing AI models. Using python pandas, we can process raw data, solve imbalances and predict models. From the existing data, we use the NearMiss algorithm and check using K-Fold whether there is overfitting or not.",
+      "skills": ["Python"],
+      "demo": "https://github.com/misiabdipatra/Online-Shoppers-Purchases",
+      "source": ""
+    },
+    {
+      "title": "NCPR NP-180",
+      "imageSrc": "projects/cs.jpg",
+      "description": "This project comes from an internship project and is intended to create a user interface using blade for a client's stock database website. In this project, HTML (Blade), JS and Database (SQL) will be combined.",
+      "skills": ["HTML", "Blade", "JavaScript", "MySQL"],
+      "demo": "",
+      "source": ""
+    },
+    {
+      "title": "Kidney Failure Prediction",
+      "imageSrc": "projects/kidney.jpg",
+      "description": "This project is a final assignment for the Computational Biology course and focuses on providing predictions about kidney failure using blood samples. We compared several machine learning models and found that Ada Boost was the best model with an accuracy of 99.16%.",
+      "skills": ["Python"],
+      "demo": "https://github.com/misiabdipatra/Prediksi-Gagal-Ginjal",
+      "source": "https://drive.google.com/drive/folders/1xC3gOs-8wWEgaYMxFJdiqxc6PmPR8gKU?usp=drive_link"
+    },
+    {
+      "title": "Calm Mind",
+      "imageSrc": "projects/calm.png",
+      "description": "Calm Mind is a mid-term project website for the Human Computer and Interaction course that focuses on mental health. With features such as accurate mental health tests and virtual counseling sessions, Calm Mind offers comprehensive support for those who are struggling. The design process involving Figma has allowed me to create an intuitive and aesthetic interface, making the experience of using the application more enjoyable.",
+      "skills": ["HTML"],
+      "demo": "https://www.figma.com/design/R4ucZr9oMLG17RSFahkb54/UTS-HCI-Kasus-1-Misia-Callista?node-id=0-1&t=VvQrtrhWhaZqxhTS-1",
+      "source": ""
+    },
+    {
+      "title": "WatcHGoods",
+      "imageSrc": "projects/watch.png",
+      "description": "WatchGoods is a final project website for the Human Computer and Interaction course that aims to market watches. With a watch display feature, WatchGoods offers various models with prices and comparisons from each existing brand. The design process involving Figma, HTML, CSS and JS allowed me to improve my skills in working on this project and future projects.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://github.com/misiabdipatra/WatcHGoods",
+      "source": ""
+    }
+  ]
+  
