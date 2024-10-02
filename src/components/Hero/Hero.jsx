@@ -1,12 +1,23 @@
 import React from 'react';
 import styles from "./Hero.module.css";
 import { getImageUrl } from '../../utils';
+import { useTypewriter, Cursor } from 'react-simple-typewriter'
 
 export const Hero = () => {
+    const [typeEffect] = useTypewriter({
+        words: ['Misia Callista'],
+        loop: {},
+        typeSpeed: 200,
+        deleteSpeed: 100
+    })
     return (
     <section className={styles.container}>
         <div className={styles.content}>
-            <h1 className={styles.title}>Hi, I'm Misia Callista</h1>
+            <h1 className={styles.title}>
+                Hi, I'm
+                <span> {typeEffect} </span>
+                <span><Cursor cursorStyle='<' /> </span>
+            </h1>
             <p className={styles.description}>
                 I am a 5th semester Computer Science student at BINUS University
             </p>
