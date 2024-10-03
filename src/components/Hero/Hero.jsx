@@ -1,7 +1,7 @@
 import React from 'react';
 import styles from "./Hero.module.css";
 import { getImageUrl } from '../../utils';
-import { useTypewriter, Cursor } from 'react-simple-typewriter'
+import { useTypewriter } from 'react-simple-typewriter'
 
 export const Hero = () => {
     const [typeEffect] = useTypewriter({
@@ -16,7 +16,6 @@ export const Hero = () => {
             <h1 className={styles.title}>
                 Hi, I'm
                 <span> {typeEffect} </span>
-                <span><Cursor cursorStyle='<' /> </span>
             </h1>
             <p className={styles.description}>
                 I am a 5th semester Computer Science student at BINUS University
