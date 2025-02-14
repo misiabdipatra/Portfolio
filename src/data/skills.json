@@ -34,6 +34,10 @@
     {
       "title": "PHP",
       "imageSrc": "skills/php.png"
+    },
+    {
+      "title": "R",
+      "imageSrc": "skills/r.png"
     }
   ]
   

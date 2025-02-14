@@ -1,5 +1,21 @@
 [
-    {
+  {
+    "title": "AstroEdu",
+    "imageSrc": "projects/astroedu.jpg",
+    "description": "AstroEdu is an educational platform designed to enhance the learning experience of elementary school students through engaging and interactive learning methods. It offers high-quality educational videos and practice questions for subjects such as Science, Math, and English, featuring visually appealing designs.",
+    "skills": ["PHP", "Blade", "CSS","JavaScript", "MySQL"],
+    "demo": "https://astroedu.vercel.app/",
+    "source": "https://github.com/misiabdipatra/AstroEdu"
+  },  
+  {
+    "title": "Predictive Analysis Heart Disease in R",
+    "imageSrc": "projects/datmin.jpg",
+    "description": "Heart disease is a leading global cause of death, with 17.8 million deaths annually (WHO, 2021). Key risk factors include high blood pressure, cholesterol, diabetes, and lifestyle habits. This study uses R for predictive modeling to identify at-risk individuals, aiding early detection and prevention.",
+    "skills": ["R"],
+    "demo": "https://github.com/misiabdipatra/Predictive-Analysis-Heart-Disease-in-R",
+    "source": "https://drive.google.com/drive/folders/1YxsrL_M9SgP1Ukr2PVAk1GTAqYsAsU32?usp=drive_link"
+  }, 
+  {
       "title": "tourVel.",
       "imageSrc": "projects/gdsc.png",
       "description": "TourVel is a project from Google Developer Student Club. This application is designed to help individuals explore new areas with destination recommendations according to the user's budget. Users can easily get the optimal travel plan according to their budget. This project consists of a splash screen, home screen, planner, and plan history.",
@@ -51,7 +67,7 @@
       "title": "Calm Mind",
       "imageSrc": "projects/calm.png",
       "description": "Calm Mind is a mid-term project website for the Human Computer and Interaction course that focuses on mental health. With features such as accurate mental health tests and virtual counseling sessions, Calm Mind offers comprehensive support for those who are struggling. The design process involving Figma has allowed me to create an intuitive and aesthetic interface, making the experience of using the application more enjoyable.",
-      "skills": ["HTML"],
+      "skills": ["Figma"],
       "demo": "https://www.figma.com/design/R4ucZr9oMLG17RSFahkb54/UTS-HCI-Kasus-1-Misia-Callista?node-id=0-1&t=VvQrtrhWhaZqxhTS-1",
       "source": ""
     },

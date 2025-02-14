@@ -1,9 +1,19 @@
 [
-    {
+  {
+    "role": "Data Scientist",
+    "organisation": "PT Global Loyalty Indonesia",
+    "startDate": "Feb, 2025",
+    "endDate": "Present",
+    "experiences": [
+      "Process data", 
+      "Learn how to handle big data"],
+    "imageSrc": "history/alfa.png"
+  },  
+  {
       "role": "Front End Developer",
       "organisation": "CS Indonesia",
       "startDate": "Oct, 2023",
-      "endDate": "Present",
+      "endDate": "Dec, 2024",
       "experiences": [
         "Developing compelling and responsive user interfaces", 
         "Analyzing the existing application flow within the company"],
