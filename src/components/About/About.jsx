@@ -7,7 +7,7 @@ export const About = () => {
         <section className={styles.container} id="about">
             <h2 className={styles.title}>About</h2>
             <p className={styles.description}>
-                A 5th-semester Computer Science student at 
+                A 6th-semester Computer Science student at 
                 Bina Nusantara University, passionate about the 
                 intersection of computer science, social media, 
                 and data processing. I've developed leadership and 
