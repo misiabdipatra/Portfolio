@@ -14,8 +14,8 @@ export const Hero = () => {
     <section className={styles.container}>
         <div className={styles.content}>
             <h1 className={styles.title}>
-                Hi, I'm
-                <span> {typeEffect} </span>
+                Hi, I'm{' '}
+                <span className={styles.typingEffect}> {typeEffect} </span>
             </h1>
             <p className={styles.description}>
                 I am a 6th semester Computer Science student at BINUS University
