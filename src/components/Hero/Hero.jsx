@@ -18,9 +18,9 @@ export const Hero = () => {
                 <span> {typeEffect} </span>
             </h1>
             <p className={styles.description}>
-                I am a 5th semester Computer Science student at BINUS University
+                I am a 6th semester Computer Science student at BINUS University
             </p>
-            <a href="mailto:misiabdipatra@gmail.com" className={styles.contactBtn}>
+            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=misiabdipatra@gmail.com" target="_blank" className={styles.contactBtn}>
                 Contact Me
             </a>
         </div>
